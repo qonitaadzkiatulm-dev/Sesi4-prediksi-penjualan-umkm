@@ -1,3 +1,9 @@
+| **Nama** | Qonita Adzkiatul Mardiyah |
+|---|---|
+| **NPM** | G1A023086 |
+
+
+
 # Prediksi Penjualan Produk UMKM
 
 Studi kasus: memperkirakan penjualan bulan berikutnya berdasarkan data penjualan sebelumnya.
